@@ -15,7 +15,7 @@ Aplicação web para gerenciamento de tarefas desenvolvida com Next.js, TypeScri
 
 ## 📸 Demonstração
 
-![Task Manager Demo](https://todo-list-ruby-five.vercel.app/)
+[Task Manager Demo](https://todo-list-ruby-five.vercel.app/)
 
 ## 🧪 Tecnologias
 
